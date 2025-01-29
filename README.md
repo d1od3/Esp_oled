@@ -5,3 +5,4 @@ standard pins scl 35 sda 33 (customizable)
 display 128x64 ssd1306
 #what's esp?
 esp32-s2mini v1
+#how to change pins?
